@@ -1,4 +1,4 @@
-# elpalondivinon
+# ChildGrimm-spectre
 
 > Memorable developer positioning.
 
@@ -6,11 +6,11 @@
 
 ## Header
 > Editing this section in the inspector.
-Hi, I'm **elpalondivinon**. This README is tuned for **personal brand** with a GitHub visual system.
+Hi, I'm **ChildGrimm-spectre**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=elpalondivinon&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=elpalondivinon&theme=github-dark" alt="elpalondivinon hero section" />
+    <img src="https://www.gitskins.com/api/section/hero?username=elpalondivinon&theme=github-dark" alt="ChildGrimm-spectre hero section" />
   </picture>
 </p>
 ## About Me
