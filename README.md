@@ -9,40 +9,40 @@
 Hi, I'm **ChildGrimm-spectre**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=elpalondivinon&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=elpalondivinon&theme=github-dark" alt="ChildGrimm-spectre hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=child-grimm&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=child-grimm&theme=github-dark" alt="ChildGrimm-spectre hero section" />
   </picture>
 </p>
 ## About Me
 Shapes the short profile story and positioning.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=elpalondivinon&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=elpalondivinon&theme=github-dark" alt="elpalondivinon about section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=child-grimm&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=child-grimm&theme=github-dark" alt="child-grimm about section" />
   </picture>
 </p>
 ## Skills
 Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=elpalondivinon&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=elpalondivinon&theme=github-dark" alt="elpalondivinon stack section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=child-grimm&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=child-grimm&theme=github-dark" alt="child-grimm stack section" />
   </picture>
 </p>
 ## GitHub Stats
 GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=elpalondivinon&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=elpalondivinon&theme=github-dark" alt="elpalondivinon stats section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=child-grimm&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=child-grimm&theme=github-dark" alt="child-grimm stats section" />
   </picture>
 </p>
 ## Projects
 Highlights repositories as proof of work.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=elpalondivinon&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=elpalondivinon&theme=github-dark" alt="elpalondivinon projects section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=child-grimm&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=child-grimm&theme=github-dark" alt="child-grimm projects section" />
   </picture>
 </p>
 ## Heatmap
@@ -51,8 +51,8 @@ Animated year-long contribution calendar.
 Contact and social links will appear here.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=elpalondivinon&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=elpalondivinon&theme=github-dark" alt="elpalondivinon social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=child-grimm&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=child-grimm&theme=github-dark" alt="child-grimm social section" />
   </picture>
 </p>
 
